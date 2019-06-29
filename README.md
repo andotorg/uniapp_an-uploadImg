@@ -16,3 +16,9 @@ export default {
 ```
 <an-upload-img></an-upload-img>
 ```
+
+#### Perview
+
+[!image](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/perview.png)
+
+[!image](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/store.png)
