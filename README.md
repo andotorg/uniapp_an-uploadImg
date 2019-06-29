@@ -19,6 +19,6 @@ export default {
 
 #### Perview
 
-[!image](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/perview.png)
+![perview](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/perview.png)
 
-[!image](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/store.png)
+![store](https://github.com/andotorg/uniapp_an-uploadImg/blob/master/store.png)
